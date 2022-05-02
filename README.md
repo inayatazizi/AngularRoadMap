@@ -14,7 +14,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ## Roadmap
 
-![Roadmap](./images/angular-developer-roadmap.png)
+![Roadmap](./angular-developer-roadmap.png)
 
 ## Resources
 
